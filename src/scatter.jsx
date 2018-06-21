@@ -1,7 +1,6 @@
 "use strict";
 
-import {
-  default as React,
+import React, {
   Component
 } from 'react';
 
