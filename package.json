@@ -2,9 +2,10 @@
   "name": "react-d3-basic",
   "version": "1.6.11",
   "description": "react chart component",
-  "main": "./lib/index.js",
+  "main": "./src/index.jsx",
   "directories": {
-    "example": "example"
+    "example": "example",
+    "src": "src"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
