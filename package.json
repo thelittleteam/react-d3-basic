@@ -52,8 +52,8 @@
     "d3-array": "^0.7.1",
     "d3-scale": "^0.6.4",
     "prop-types": "^15.6.1",
-    "react-d3-core": "^1.2.8",
-    "react-d3-shape": "^0.2.13",
+    "react-d3-core": "github:thelittleteam/react-d3-core",
+    "react-d3-shape": "github:thelittleteam/react-d3-shape",
     "react-faux-dom": "^2.1.0"
   }
 }
