@@ -2,7 +2,7 @@
   "name": "react-d3-basic",
   "version": "1.6.11",
   "description": "react chart component",
-  "main": "./src/index.jsx",
+  "main": "./lib/index.jsx",
   "directories": {
     "example": "example",
     "src": "src"
